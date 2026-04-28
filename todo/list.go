@@ -53,4 +53,4 @@ func (l *List) DeleteTask(title string) {
 		fmt.Println("Задача не найдена")
 	}
 }
-func (l *List) Events() {}
+
