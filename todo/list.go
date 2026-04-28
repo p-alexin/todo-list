@@ -53,3 +53,7 @@ func (l *List) DeleteTask(title string) {
 		fmt.Println("Задача не найдена")
 	}
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 49b1929da00b3ef67763d3b6a09675542bc8ac34
